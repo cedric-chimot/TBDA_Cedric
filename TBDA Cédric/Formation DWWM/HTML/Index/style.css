@@ -1,0 +1,30 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 25%;
+}
+
+p {
+    color: red;
+    border: 3px solid royalblue;
+    width: 30%
+}
+
+h1, h2 {
+    color: blue;
+}
+
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+button:hover {
+    background-color: red; 
+    text-decoration: underline;
+}
